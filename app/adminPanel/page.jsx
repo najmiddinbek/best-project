@@ -1,12 +1,12 @@
 import Filter2 from "../../components/Filter-2"
-import SecondNavbar from "../../components/SecondNavbar"
+import Navbar from "../../components/Navbar"
 
 
 export default function TopicsList() {
 
     return (
         <>
-            <SecondNavbar />
+            <Navbar />
             <div className="container">
                 <Filter2 />
             </div >

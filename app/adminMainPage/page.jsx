@@ -1,11 +1,11 @@
 import React from 'react'
 import AdminMainPage from "../../components/AdminMainPage"
-import SecondNavbar from "../../components/SecondNavbar"
+import Navbar from "../../components/Navbar"
 
 export default function page() {
     return (
         <div>
-            <SecondNavbar />
+            <Navbar />
             <AdminMainPage />
         </div>
     )

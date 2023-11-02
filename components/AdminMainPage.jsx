@@ -7,7 +7,7 @@ export default function page() {
 
     return (
         <div className='mt-10 max-w-[1400px] ml-auto mr-auto'>
-            <h1 className='poppins text-3xl font-bold'>Chortoq tumani 3-maktab o`quvchilari</h1>
+            <h1 className='poppins text-3xl mb-4 font-bold'>Chortoq tumani 3-maktab o`quvchilari</h1>
             <>
                 <div className='w-full h-[10px] bg-transparent rounded-xl'></div>
                 <Link href={"/adminPanel"}>
